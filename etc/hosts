@@ -1,0 +1,111 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+192.168.1.103 gcbdvh_Anubis gcbdvh_Anubis.grupochaidneme.local
+127.0.0.1 webmessenger.msn.com 
+127.0.0.1 messenger.hotmail.com 
+127.0.0.1 msgr.dlservice.microsoft.com 
+127.0.0.1 messenger.msn.com 
+127.0.0.1 gateway.messenger.hotmail.com 
+127.0.0.1 www.facebook.com 
+127.0.0.1 facebook.com 
+127.0.0.1 www.facebook.com 
+127.0.0.1 facebook.com/login.php  
+127.0.0.1 www.twitter.com
+127.0.0.1 www.netflix.com
+127.0.0.1 webmessenger.msn.com 
+127.0.0.1 www.directvplay.com
+127.0.0.1 www.directv.com.co 
+127.0.0.1 www.directvgo.com
+127.0.0.1 www.canalrcn.com
+127.0.0.1 www.caracoltv.com
+127.0.0.1 www.callofduty.com
+127.0.0.1 ffsoporte.garena.com
+127.0.0.1 www.arenagg.com
+127.0.0.1 es-es.facebook.com/ 
+127.0.0.1 http://es-es.facebook.com/ 
+127.0.0.1 www.facebook.com 
+127.0.0.1 www.en-gb.facebook.com 
+127.0.0.1 en-gb.facebook.com 
+127.0.0.1 www.facebook.com
+127.0.0.1 www.instagram.com 
+127.0.0.1 facebook.com 
+127.0.0.1 es-es.facebook.com 
+127.0.0.1 es-la.facebook.com 
+127.0.0.1 www.gateway.edge.messenger.live.com 
+127.0.0.1 www.geo.messenger.services.live.com 
+127.0.0.1 geo.messenger.services.live.com 
+127.0.0.1 http://twitter.com/#!/novlucker 
+127.0.0.1 repelis.li
+127.0.0.1 repelisxd.com
+127.0.0.1 www.repelis2.com
+127.0.0.1 repelisplus.vip
+127.0.0.1 onlineradiobox.com
+127.0.0.1 emisorascolombianas.co
+127.0.0.1 gnula.se
+127.0.0.1 pelisap.com
+127.0.0.1 gnula.nu
+127.0.0.1 www.mega.com
+127.0.0.1 gomovies-online.me
+127.0.0.1 hdfull.co
+127.0.0.1 ask.fm
+127.0.0.1 www.tiktok.com
+127.0.0.1 falabella.com.co
+127.0.0.1 www.amazon.com
+127.0.0.1 www.y2mate.com
+127.0.0.1 www.spotify.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 www.snapchat.com
+127.0.0.1 www.fullpeliculashd.tv
+127.0.0.1 www.falabella.com.co/falabella-co
+127.0.0.1 www.deezer.com
+127.0.0.1 www.tarjetarojatvonline.com
+127.0.0.1 www.spotify.com
+127.0.0.1 television-internet.com.ar
+127.0.0.1 webcamtoy.com
+127.0.0.1 www.fullpeliculashd.me
+127.0.0.1 www.opera.com
+127.0.0.1 www.marca.com
+127.0.0.1 gol.caracoltv.com
+127.0.0.1 verpeliculasenlatino.com
+127.0.0.1 pelis28.tv
+127.0.0.1 aweita.larepublica.pe
+127.0.0.1 ver-pelis-online.com
+127.0.0.1 www.pelisplay.tv
+127.0.0.1 install.streaming-time.com
+127.0.0.1 get.trustnav.com
+127.0.0.1 heroesofrpg.com
+127.0.0.1 pelisplus.co
+127.0.0.1 www.winsports.co
+127.0.0.1 www.kalley.com.co
+127.0.0.1 carros.tucarro.com.co
+127.0.0.1 motos.mercadolibre.com.co
+127.0.0.1 www.winsports.co
+127.0.0.1 futbolete.com
+127.0.0.1 www.rushbet.co
+127.0.0.1 account.yajuego.co
+127.0.0.1 playerswhisper.com
+127.0.0.1 promo.codere.com.co
+127.0.0.1 www.vantagemarkets.com
+127.0.0.1 es.stripchat.com
+127.0.0.1 www.rojadirectaenvivo.club
+127.0.0.1 www.rojadirectaenvivo.me
+127.0.0.1 www.rojadirectatv.tv
